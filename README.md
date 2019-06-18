@@ -1,12 +1,11 @@
-#Blog
+# Blog
 
-This repository contains a React + Redux project that was completed as part of the Udemy course "Modern React with Redux 2019".
+This repository contains a React + Redux project that was completed as part of the Udemy course "Modern React with Redux 2019". 
 
+The app fetches/displays data from the JSONPlaceholder API in a blog post-list format.
 ![Image](screen_shots/shot1.png)
 
 ---
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Usage
 
